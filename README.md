@@ -52,3 +52,9 @@ export default tseslint.config({
   },
 })
 ```
+
+
+figma:
+
+
+https://www.figma.com/design/eeTrJzIo6BprqZa47LtJsV/MNTN---Landing-Page--Community---Copy-?t=MQm3nJNtoGQij1y3-0
