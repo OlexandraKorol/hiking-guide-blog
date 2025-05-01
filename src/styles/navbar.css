@@ -1,0 +1,24 @@
+.header-section {
+  width: 30%;
+}
+
+.link {
+  font-family: 'Montserrat', sans-serif; 
+  font-weight: bold; 
+  font-size: 15px; 
+  color: white;
+}
+
+.logoText {
+  font-family: 'Playfair Display', sans-serif; 
+  font-weight: bold; 
+  font-size: 32px; 
+  color: white;
+}
+
+.account {
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 13px; 
+  color: white;
+  padding-left: 3px;
+}

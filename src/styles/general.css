@@ -1,0 +1,15 @@
+.main-container {
+  padding: 0 80px 0 80px;
+}
+
+.helperText {
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 13px; 
+  font-weight: 700;
+  color: white;
+  padding-bottom: 24px ;
+}
+.socialLinksText {
+  writing-mode: vertical-rl
+}
+

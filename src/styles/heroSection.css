@@ -1,0 +1,33 @@
+.subtitle {
+  font-family: 'Montserrat', sans-serif; 
+
+  font-size: 10px; 
+  color: #FBD784;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding-left: 20px;
+}
+
+.divider {
+  width: 60px;
+  height: 2px;
+  background-color: #FBD784;
+  padding-right: 6px;
+}
+
+.title {
+  font-family: 'Playfair Display', sans-serif; 
+  font-weight: bold; 
+  font-size: 40px; 
+  color: white;
+}
+
+.scrollDown {
+  font-family: 'Montserrat', sans-serif; 
+
+  font-size: 13px; 
+  color: white;
+
+  padding-top: 20px;
+}
+

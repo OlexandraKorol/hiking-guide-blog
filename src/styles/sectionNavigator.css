@@ -1,0 +1,14 @@
+.activeSectionIndicator {
+  width: 2px;
+  height: 60px;
+  background-color: white;
+   margin-left: 32px;
+}
+
+.unActiveSectionIndicator {
+  width: 2px;
+  height: 60px;
+  background-color: #d6d7d5;
+   margin-left: 32px;
+}
+
